@@ -1,8 +1,9 @@
 {
   "version": "1.0.3",
-  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/Update/update.zip",
+  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/1.0.3/update.zip",
   "changelog": "Исправлены ошибки, улучшена стабильность, добавлена проверка обновлений.",
   "required": false
 
 }
+
 
