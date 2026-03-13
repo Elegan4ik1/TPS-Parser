@@ -1,9 +1,10 @@
 {
-  "version": "3.3",
-  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/3.3/update.zip",
-  "changelog": "Полный список изменений в релизе 3.3",
+  "version": "3.4",
+  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/3.4/update.zip",
+  "changelog": "Полный список изменений в релизе 3.4",
   "required": false
 }
+
 
 
 
