@@ -1,6 +1,6 @@
 {
-  "version": "3.9",
-  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/3.9/Update.zip",
+  "version": "4.0",
+  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/4.0/Update.zip",
   "changelog": "Добавлен SmartBackgroundChecks, фильтр возраста, ручная капча, ротация IP, улучшена стабильность.",
   "required": false
 }
