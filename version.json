@@ -1,6 +1,6 @@
 {
-  "version": "4.1",
-  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/4.1/Update.zip",
-  "changelog": "Добавлен пробив SSN/DOB через GUI, карточка настроек, headless-режим, вывод логов.",
+  "version": "4.2",
+  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/4.2/Update.zip",
+  "changelog": "Фикс пробива SSN/DOB.",
   "required": false
 }
