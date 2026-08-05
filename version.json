@@ -1,6 +1,6 @@
 {
-  "version": "4.5",
-  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/4.5/Update.zip",
-  "changelog": "Фикс Сбора фулок и капчи.",
+  "version": "4.6",
+  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/4.6/Update.zip",
+  "changelog": "Фикс капчи на ссн и доб.",
   "required": false
 }
