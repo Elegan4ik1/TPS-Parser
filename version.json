@@ -1,6 +1,6 @@
 {
-  "version": "4.4",
-  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/4.4/Update.zip",
-  "changelog": "Фикс пробива SSN/DOB.",
+  "version": "4.5",
+  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/4.5/Update.zip",
+  "changelog": "Фикс Сбора фулок и капчи.",
   "required": false
 }
