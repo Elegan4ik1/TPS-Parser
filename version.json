@@ -1,6 +1,6 @@
 {
-  "version": "4.9",
-  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/4.9/Update.zip",
+  "version": "5.0",
+  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/5.0/Update.zip",
   "changelog": "Фикс работи парсера через Мульвад ьеперь при бане в одном из потоков меняет 1 раз впн и пересоздает все бравзера.",
   "required": false
 }
