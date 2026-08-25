@@ -1,6 +1,6 @@
 {
-  "version": "5.1",
-  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/5.1/Update.zip",
+  "version": "5.2",
+  "download_url": "https://github.com/Elegan4ik1/TPS-Parser/releases/download/5.2/Update.zip",
   "changelog": "Фикс работи парсера.",
   "required": false
 }
